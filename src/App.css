@@ -1,0 +1,111 @@
+/* 地図を画面全体に表示 */
+body {
+  margin: 0;
+}
+
+.leaflet-container {
+  width: 100vw;
+  height: 80vh;
+}
+
+/* カーソルを標準に戻す(標準の手アイコンは位置を正確に選択しづらい) */
+.leaflet-grab {cursor: auto;}
+
+.title {
+  font-size: 8em; /* 文字の大きさを4倍に設定 */
+  text-shadow: -2px -2px 4px #8e44ad, 2px -2px 4px #8e44ad, -2px 2px 4px #8e44ad, 2px 2px 4px #8e44ad; /* 影のように見せる */
+  padding: 10px;
+  color: #f39c12; /* テキストの色を黒に設定 */
+  border-radius: 10px; /* 丸みを付ける */
+  margin-top: 200px;
+}
+
+.quiz-header {
+  display: inline-block;
+  border: 2px solid #3498db;
+  border-radius: 10px; /* 丸みを付ける */
+  padding: 10px;
+  margin-bottom: 10px;
+  white-space: nowrap; /* テキストが折り返されないようにする */
+  background-color: #3498db; /* 背景色を青に設定 */
+  color: #ffffff; /* テキストの色を白に設定 */
+}
+
+/* ゲームスタートボタンのスタイル */
+.start-button {
+  padding: 10px;
+  font-size: 16px;
+  margin-top: 10px;
+  background-color: #3498db; /* 背景色を青に設定 */
+  color: #ffffff; /* テキストの色を白に設定 */
+  border: none; /* ボーダーをなくす */
+  border-radius: 5px; /* 丸みを付ける */
+  cursor: pointer; /* カーソルをポインターに変更 */
+}
+
+/* ゲームスタートボタンのホバーエフェクト */
+.start-button:hover {
+  background-color: #2074a0; /* ホバー時の背景色を変更 */
+}
+
+/* 解答ボタンのスタイル */
+.answer-button {
+  padding: 10px;
+  font-size: 16px;
+  margin-top: 10px;
+  background-color: #e74c3c; /* 背景色を赤に設定 */
+  color: #000000; /* テキストの色を白に設定 */
+  border: none; /* ボーダーをなくす */
+  border-radius: 5px; /* 丸みを付ける */
+  cursor: pointer; /* カーソルをポインターに変更 */
+}
+
+/* 解答ボタンのホバーエフェクト */
+.answer-button:hover {
+  background-color: #c0392b; /* ホバー時の背景色を変更 */
+}
+
+/* ヒントボタンのスタイル */
+.hint-button {
+  padding: 10px;
+  font-size: 16px;
+  margin-top: 10px;
+  background-color: #f39c12; /* 背景色を黄色に設定 */
+  color: #000000; /* テキストの色を白に設定 */
+  border: none; /* ボーダーをなくす */
+  border-radius: 5px; /* 丸みを付ける */
+  cursor: pointer; /* カーソルをポインターに変更 */
+}
+
+/* ヒントボタンのホバーエフェクト */
+.hint-button:hover {
+  background-color: #d35400; /* ホバー時の背景色を変更 */
+}
+
+/* ボタンのスタイル */
+button {
+  padding: 10px;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+/* 問題番号の表示スタイル */
+p {
+  font-size: 18px;
+  margin-top: 10px;
+  color: #3498db;
+}
+
+/* 画像のスタイル */
+img {
+  max-width: 100%; /* 画像の最大幅を親要素に合わせる */
+  height: auto;    /* 高さは自動調整 */
+  display: block;  /* インライン要素をブロック要素に変更（余白が自動的に追加される）*/
+  margin: 0 auto;  /* 左右の余白を自動的に均等にすることで中央配置 */
+  max-height: 300px; /* 画像の最大高さを制限（適宜調整） */
+}
+
+.attribution-text{
+  font-size: 12px; /* または適切なサイズに変更してください */
+  color: #666; /* テキストの色を調整する場合、適切な色に変更してください */
+}

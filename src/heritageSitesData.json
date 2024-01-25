@@ -1,0 +1,705 @@
+[
+    {
+      "name": "タージ・マハル",
+      "latitude": 27.1751,
+      "longitude": 78.0421,
+      "url": "タージマハル.jpg.webp"
+    },
+    {
+      "name": "自由の女神像",
+      "latitude": 40.6892,
+      "longitude": -74.0445,
+      "url": "自由の女神.jpg.webp"
+    },
+    {
+      "name": "イエローストーン国立公園",
+      "latitude": 44.4280,
+      "longitude": -110.5885,
+      "url": "イエローストーン国立公園.jpg.webp"
+    },
+    {
+      "name": "デルフィの考古遺跡",
+      "latitude": 38.4825,
+      "longitude": 22.5001,
+      "url": "デルフィの考古遺跡.jpg.webp"
+    },
+    {
+      "name": "ケルン大聖堂",
+      "latitude": 50.9413,
+      "longitude": 6.9580,
+      "url": "ケルン大聖堂.jpg.webp"
+    },
+    {
+      "name": "パリのセーヌ河岸",
+      "latitude": 48.8588,
+      "longitude": 2.2944,
+      "url": "パリのセーヌ河岸.jpg.webp"
+    },
+    {
+      "name": "ロス・グラシアレス国立公園",
+      "latitude": -49.2750,
+      "longitude": -73.0479,
+      "url": "ロス・グラシアレス.jpg.webp"
+    },
+    {
+      "name": "モンサンミッシェルとその湾",
+      "latitude": 48.6361,
+      "longitude": -1.5114,
+      "url": "モンサンミッシェルとその湾.jpg.webp"
+    },
+    {
+      "name": "グレート・バリア・リーフ",
+      "latitude": -18.56778,
+      "longitude": 148.55528,
+      "url": "グレートバリアリーフ.jpg.webp"
+    },
+    {
+      "name": "バチカン市国",
+      "latitude": 41.9022,
+      "longitude": 12.4530,
+      "url": "バチカン市国.jpg.webp"
+    },
+    {
+      "name": "グランドキャニオン国立公園",
+      "latitude": 36.0566,
+      "longitude": -112.1251,
+      "url": "グランドキャニオン.jpg.webp"
+    },
+    {
+      "name": "サクラダ・ファミリア",
+      "latitude": 41.403423,
+      "longitude": 2.174611,
+      "url": "サクラダファミリア.jpg.webp"
+    },
+    {
+      "name": "国立西洋美術館",
+      "latitude": 35.71556,
+      "longitude": 139.77583,
+      "url": "国立西洋美術館.jpg.webp"
+    },
+    {
+      "name": "シドニー・オペラハウス",
+      "latitude": -33.8568,
+      "longitude": 151.2153,
+      "url": "シドニー・オペラハウス.jpg.webp"
+    },
+    {
+      "name": "万里の長城",
+      "latitude": 40.67693,
+      "longitude": 117.23193,
+      "url": "万里の長城.jpg.webp"
+    },
+    {
+      "name": "ローマ歴史地区、教皇領とサン・パオロ・フオーリ・レ・ムーラ大聖堂",
+      "latitude": 41.9028,
+      "longitude": 12.4964,
+      "url": "ローマ歴史地区.jpg.webp"
+    },
+    {
+      "name": "モスクワのクレムリンと赤の広場",
+      "latitude": 55.7539,
+      "longitude": 37.6208,
+      "url": "モスクワのクレムリンと赤の広場.jpg.webp"
+    },
+    {
+      "name": "アルベロベッロのトゥルッリ",
+      "latitude": 40.7829,
+      "longitude": 17.2371,
+      "url": "アルベロベッロのトゥルッリ.jpg.webp"
+    },
+    {
+      "name": "イグアス国立公園",
+      "latitude": -25.5972,
+      "longitude": -25.5972,
+      "url": "イグアスの滝.jpg.webp"
+    },
+    {
+      "name": "チュニス旧市街",
+      "latitude": 36.7996,
+      "longitude": 10.1803,
+      "url": "チュニス旧市街.jpg.webp"
+    },
+    {
+      "name": "ペトラ遺跡",
+      "latitude": 30.3285,
+      "longitude": 35.4444,
+      "url": "ペトラ.jpg.webp"
+    },
+    {
+      "name": "ナスカとパルパの地上絵",
+      "latitude": -14.8358,
+      "longitude": -74.9384,
+      "url": "ナスカとパルパの地上絵.jpg.webp"
+    },
+    {
+      "name": "ヴェルサイユの宮殿と庭園",
+      "latitude": 48.8048,
+      "longitude": 2.1204,
+      "url": "ヴェルサイユの宮殿と庭園.jpg.webp"
+    },
+    {
+      "name": "レオナルド・ダ・ヴィンチの『最後の晩餐』があるサンタ・マリア・デッレ・グラツィエ教会とドメニコ会修道院",
+      "latitude": 45.4632,
+      "longitude": 9.1724,
+      "url": "サンタ・マリア・デッレ・グラツィエ教会とドメニコ会修道院.jpg.webp"
+    },
+    {
+      "name": "アテネのアクロポリス",
+      "latitude": 37.9715,
+      "longitude": 23.7263,
+      "url": "アテネのアクロポリス.jpg.webp"
+    },
+    {
+      "name": "メンフィスとその墓地遺跡-ギザからダハシュールまでのピラミッド地帯",
+      "latitude": 29.9792,
+      "longitude": 31.1342,
+      "url": "メンフィスとその墓地遺跡.jpg.webp"
+    },
+    {
+      "name": "カナディアン・ロッキー山脈自然公園群",
+      "latitude": 51.4254,
+      "longitude": 116.1775,
+      "url": "カナディアンロッキー.jpg.webp"
+    },
+    {
+      "name": "ガラパゴス諸島",
+      "latitude": -0.6833,
+      "longitude": -90.2667,
+      "url": "ガラパゴス.jpg.webp"
+    },
+    {
+      "name": "マチュ・ピチュの歴史保護区",
+      "latitude": -13.1631,
+      "longitude": -72.5450,
+      "url": "マチュピチュ.jpg.webp"
+    },
+    {
+      "name": "モヘンジョダロの考古遺跡",
+      "latitude": 27.3254,
+      "longitude": 68.1433,
+      "url": "モヘンジョダロの考古遺跡.jpg.webp"
+    },
+    {
+        "name": "中国南方カルスト",
+        "latitude": 25.22,
+        "longitude": 107.98,
+        "url": "中国南方カルスト.jpg.webp"
+      },
+      {
+        "name": "ウィーン歴史地区",
+        "latitude": 48.2082,
+        "longitude": 16.3738,
+        "url": "ウィーン歴史地区.jpg.webp"
+      },
+      {
+        "name": "チチェン・イッツァ",
+        "latitude":  20.6843,
+        "longitude": -88.5678,
+        "url": "チチェン・イッツァ.jpg.webp"
+      },
+      {
+        "name": "アトス山",
+        "latitude": 40.1680,
+        "longitude": 24.3370,
+        "url": "アトス山.jpg"
+      },
+      {
+        "name": "フレデフォート・ドーム",
+        "latitude": 55.9369,
+        "longitude": 12.3054,
+        "url": "フレデフォート・ドーム.jpg.webp"
+      },
+      {
+        "name": "ヴェネツィアとその潟",
+        "latitude": 45.4408,
+        "longitude": 12.3155,
+        "url": "ヴェネツィアとその潟.jpg.webp"
+      },
+      {
+        "name": "エローラ石窟群",
+        "latitude": 20.0229,
+        "longitude": 75.1762,
+        "url": "エローラ石窟群.jpg.webp"
+      },
+      {
+        "name": "ヘグラの考古遺跡",
+        "latitude": 25.9182,
+        "longitude": 38.9618,
+        "url": "ヘグラの考古遺跡.jpg.webp"
+      },
+      {
+        "name": "屋久島",
+        "latitude": 30.3458,
+        "longitude": 130.5329,
+        "url": "屋久島.jpg.webp"
+      },
+      {
+        "name": "ラリベラの岩窟教会群",
+        "latitude": 12.0318,
+        "longitude": 39.0412,
+        "url": "ラリベラの岩窟教会群.jpg.webp"
+      },
+      {
+        "name": "厳島神社",
+        "latitude": 34.2967,
+        "longitude": 132.3195,
+        "url": "厳島神社.jpg.webp"
+      },
+      {
+        "name": "ビルカとホーヴゴーデン ",
+        "latitude": 59.3239,
+        "longitude": 17.5463,
+        "url": "ビルカとホーヴゴーデン.jpg.webp"
+      },
+      {
+        "name": "秦始皇帝陵及び兵馬俑坑 ",
+        "latitude": 34.3840,
+        "longitude": 109.2740,
+        "url": "秦始皇帝陵及び兵馬俑坑.jpg.webp"
+      },
+      {
+        "name": "プラハ歴史地区",
+        "latitude": 50.0878,
+        "longitude": 14.4205,
+        "url": "プラハ歴史地区.jpg.webp"
+      },
+      {
+        "name": "ギョレメ国立公園とカッパドキアの岩窟群",
+        "latitude": 38.6653,
+        "longitude": 34.8439,
+        "url": "ギョレメ国立公園とカッパドキアの岩窟群.jpg.webp"
+      },
+      {
+        "name": "ソコトラ諸島",
+        "latitude": 12.4854,
+        "longitude": 53.8231,
+        "url": "ソコトラ諸島.jpg.webp"
+      },
+      {
+        "name": "アウシュヴィッツ・ビルケナウ ナチス・ドイツの強制絶滅収容所",
+        "latitude": 50.0369,
+        "longitude": 19.1753,
+        "url": "アウシュヴィッツ-ビルケナウ-ナチスドイツ強制絶滅収容所.jpg.webp"
+      },
+      {
+        "name": "ウルル＝カタ・ジュタ国立公園",
+        "latitude": -25.3455,
+        "longitude": 131.0345,
+        "url": "エアーズロック.jpg.webp"
+      },
+      {
+        "name": "ラパ・ヌイ国立公園",
+        "latitude": -27.1127,
+        "longitude": -109.3497,
+        "url": "ラパ・ヌイ国立公園イースター島モアイ.jpg.webp"
+      },
+      {
+        "name": "ナハニ国立公園",
+        "latitude": 61.2193,
+        "longitude": -124.0245,
+        "url": "ナハニ国立公園.jpg.webp"
+      },
+      {
+        "name": "古代都市テーベとその墓地遺跡",
+        "latitude": 25.7192,
+        "longitude": 32.6556,
+        "url": "ルクソール神殿古代都市テーベとその墓地遺跡.jpg.webp"
+      },
+      {
+        "name": "アンコールの遺跡群",
+        "latitude": 13.4125,
+        "longitude": 103.8660,
+        "url": "アンコールの遺跡群.jpg.webp"
+      },
+      {
+        "name": "パルミラの遺跡",
+        "latitude": 34.5512,
+        "longitude": 38.2685,
+        "url": "パルミラ遺跡・ベル神殿.jpg.webp"
+      },
+      {
+        "name": "バーミヤン渓谷の文化的景観と古代遺跡群 ",
+        "latitude": 34.8215,
+        "longitude": 67.8261,
+        "url": "バーミヤン渓谷古代遺跡群.jpg.webp"
+      },
+      {
+        "name": "富岡製糸場と絹産業遺産群",
+        "latitude": 36.2464,
+        "longitude": 139.1844,
+        "url": "富岡製糸場.jpg.webp"
+      },
+      {
+        "name": "エバーグレーズ国立公園",
+        "latitude": 25.2866,
+        "longitude": -80.8987,
+        "url": "エバーグレーズ国立公園.jpg.webp"
+      },
+      {
+        "name": "琉球王国のグスク及び関連遺産群",
+        "latitude": 26.22,
+        "longitude": 127.72,
+        "url": "琉球王国のグスク及び関連遺産群.jpg.webp"
+      },
+      {
+        "name": "済州火山島と溶岩洞窟群",
+        "latitude": 33.4392,
+        "longitude": 126.5577,
+        "url": "済州火山島と溶岩洞窟群.jpg.webp"
+      },
+      {
+        "name": "麗江旧市街",
+        "latitude": 26.8805,
+        "longitude": 100.2296,
+        "url": "麗江旧市街.jpg.webp"
+      },
+      {
+        "name": "ボロブドゥール寺院遺跡群",
+        "latitude": -7.6079,
+        "longitude": 110.2035,
+        "url": "ボロブドゥール寺院遺跡群.jpg.webp"
+      },
+      {
+        "name": "野邊家",
+        "latitude": 35.63525,
+        "longitude": 139.62723,
+        "url": "nobe hpouse.jpg"
+      },
+      {
+        "name": "ベルクパルク・ヴィルヘルムスヘーエ",
+        "latitude": 51.3500,
+        "longitude": 9.4333,
+        "url": "ベルクパルク・ヴィルヘルムスヘーエ.jpg.webp"
+      },
+      {
+        "name": "アマルフィ海岸",
+        "latitude": 40.6340,
+        "longitude": 14.6029,
+        "url": "アマルフィ海岸.jpg.webp"
+      },
+      {
+          "name": "ロスキレ大聖堂",
+          "latitude": 55.6426,
+          "longitude": 12.0803,
+          "url": "ロスキレ大聖堂.jpg.webp"
+      },
+      {
+          "name": "アーヘン大聖堂",
+          "latitude": 50.7744,
+          "longitude": 6.0844,
+          "url": "アーヘン大聖堂.jpg.webp"
+      },
+      {
+          "name": "シャルトル大聖堂",
+          "latitude": 48.4478,
+          "longitude": 1.4875,
+          "url": "シャルトル大聖堂.jpg.webp"
+      },
+      {
+          "name": "ヴィクトリアの滝",
+          "latitude": 17.9243,
+          "longitude": 25.8572,
+          "url": "ヴィクトリアの滝.jpg.webp"
+      },
+      {
+          "name": "フィレンツェ歴史地区",
+          "latitude": 43.7696,
+          "longitude": 11.2558,
+          "url": "フィレンツェ歴史地区.jpg.webp"
+      },
+      {
+          "name": "パパハナウモクアケア",
+          "latitude": 28.2000,
+          "longitude": -178.3500,
+          "url": "パパハナウモクアケア.jpg.webp"
+      },
+      {
+          "name": "メテオラ",
+          "latitude": 39.7217,
+          "longitude": 21.6306,
+          "url": "メテオラ.jpg.webp"
+      },
+      {
+          "name": "慶州歴史地域",
+          "latitude": 35.8562,
+          "longitude": 129.2247,
+          "url": "慶州歴史地域.jpg.webp"
+      },
+      {
+          "name": "法隆寺地域の仏教建造物",
+          "latitude": 34.6142,
+          "longitude": 135.7369,
+          "url": "法隆寺地域の仏教建造物.jpg.webp"
+      },
+      {
+          "name": "ケベック歴史地区",
+          "latitude": 46.8139,
+          "longitude": -71.2082,
+          "url": "ケベック歴史地区.jpg.webp"
+      },
+      {
+          "name": "恐竜州立公園（ダイナソール州立公園）",
+          "latitude": 50.7605,
+          "longitude": -111.4818,
+          "url": "恐竜州立公園（ダイナソール州立公園）.jpg.webp"
+      },
+      {
+          "name": "ハワイ火山国立公園",
+          "latitude": 19.4194,
+          "longitude": -155.2883,
+          "url": "ハワイ火山国立公園.jpg.webp"
+      },
+      {
+          "name": "ピサのドゥオモ広場",
+          "latitude":  43.7228,
+          "longitude": 10.3966,
+          "url": "ピサのドゥオモ広場.jpg.webp"
+      },
+      {
+          "name": "ビキニ環礁核実験場",
+          "latitude": 11.6031,
+          "longitude": 165.3768,
+          "url": "ビキニ環礁核実験場.jpg.webp"
+      },
+      {
+          "name": "プリトヴィッツェ湖群国立公園",
+          "latitude": 44.8804,
+          "longitude": 15.6214,
+          "url": "プリトヴィッツェ湖群国立公園.jpg.webp"
+      },
+      {
+          "name": "福建土楼",
+          "latitude": 24.6333,
+          "longitude": 117.9833,
+          "url": "福建土楼.jpg.webp"
+      },
+      {
+          "name": "武当山古建築",
+          "latitude": 32.3897,
+          "longitude": 111.0069,
+          "url": "武当山古建築.jpg.webp"
+      },
+      {
+          "name": "トンガリロ国立公園",
+          "latitude": 39.2904,
+          "longitude": 175.5623,
+          "url": "トンガリロ国立公園.jpg.webp"
+      },
+      {
+          "name": "ロンドン塔",
+          "latitude": 51.5081,
+          "longitude":-0.0761 ,
+          "url": "ロンドン塔.jpg.webp"
+      },
+      {
+          "name": "古都京都の文化財",
+          "latitude": 35.0116,
+          "longitude": 135.7681,
+          "url": "古都京都の文化財.jpg.webp"
+      },
+      {
+          "name": "キュー王立植物園",
+          "latitude": 51.4787,
+          "longitude": -0.2955,
+          "url": "キュー王立植物園.jpg.webp"
+      },
+      {
+          "name": "エルサレムの旧市街とその城壁群",
+          "latitude": 31.7767,
+          "longitude": 35.2342,
+          "url": "エルサレムの旧市街とその城壁群.jpg.webp"
+      },
+      {
+          "name": "オールド・ハバナ（ハバナ旧市街）とその要塞群",
+          "latitude": 23.1367,
+          "longitude": -82.3589,
+          "url": "オールド・ハバナ（ハバナ旧市街）とその要塞群.jpg.webp"
+      },
+      {
+          "name": "ココ島国立公園",
+          "latitude": 5.5282,
+          "longitude": -87.0574,
+          "url": "ココ島国立公園.jpg.webp"
+      },
+      {
+        "name": "ブルージュ歴史地区",
+        "latitude": 51.21331621478001,
+        "longitude": 3.2249930409362246,
+        "url": "ブルージュ歴史地区.jpg.webp"
+      },
+      {
+        "name": "古都トレド",
+        "latitude": 39.86741966049217,
+        "longitude": -4.0045297004768585,
+        "url": "古都トレド.jpg.webp"
+      },
+      {
+        "name": "ダラム城と大聖堂",
+        "latitude": 54.77560689888773,
+        "longitude": -1.5762098846879895,
+        "url": "ダラム城と大聖堂.jpg.webp"
+      },
+      {
+        "name": "シュトルーヴェの測地弧",
+        "latitude": 70.670071091593,
+        "longitude": 23.663994968779804,
+        "url": "シュトルーヴェの測地弧.jpg.webp"
+      },
+      {
+        "name": "黄龍の景観と歴史地域",
+        "latitude": 32.748799652711504,
+        "longitude": 103.82330801719495,
+        "url": "黄龍の景観と歴史地域.jpg.webp"
+      },
+      {
+        "name": "パリのセーヌ河岸",
+        "latitude": 48.8588,
+        "longitude": 2.2944,
+        "url": "パリのセーヌ河岸.jpg.webp"
+      },
+      {
+        "name": "バターリャ修道院",
+        "latitude": 39.65932782250578,
+        "longitude": -8.825700832538569,
+        "url": "バターリャ修道院.jpg.webp"
+      },
+      {
+        "name": "カイロ歴史地区",
+        "latitude": 35.43184140949897,
+        "longitude": 139.4004063711641,
+        "url": "カイロ歴史地区.jpg.webp"
+      },
+      {
+        "name": "ベリーズ珊瑚礁保護区",
+        "latitude": 16.962724392031717,
+        "longitude": -88.04831169621318,
+        "url": "ベリーズ珊瑚礁保護区.jpg.webp"
+      },
+      {
+        "name": "オーストラリアの囚人遺跡群",
+        "latitude": 44.017003360855604,
+        "longitude": 144.23077150781185,
+        "url": "オーストラリアの囚人遺跡群.jpg.webp"
+      },
+      {
+        "name": "カルパティア山脈などの欧州各地のブナ原生林群",
+        "latitude": 48.13456732465693,
+        "longitude":24.12943514070133,
+        "url": "カルパティア山脈などの欧州各地のブナ原生林群.jpg.webp"
+      },
+      {
+        "name": "バイカル湖",
+        "latitude": 52.97000896742865,
+        "longitude":  107.79227007171515,
+        "url": "バイカル湖.jpg.webp"
+      },
+      {
+        "name": "イスタンブルの歴史地区",
+        "latitude": 41.00894863281141,
+        "longitude":  29.01629932298738,
+        "url": "イスタンブルの歴史地区.jpg.webp"
+      },
+      {
+        "name": "アジャンターの石窟寺院群",
+        "latitude": 20.55201601287691,
+        "longitude": 75.70385291481067,
+        "url": "アジャンターの石窟寺院群.jpg.webp"
+      },
+      {
+        "name": "セゴビア旧市街とローマ水道橋",
+        "latitude": 40.94804344770747,
+        "longitude": -4.117841955021038,
+        "url": "セゴビア旧市街とローマ水道橋.jpg.webp"
+      },
+      {
+        "name": "富士山",
+        "latitude": 35.36996907618947,
+        "longitude":138.7380064052174,
+        "url": "富士山－信仰の対象と芸術の源泉.jpg.webp"
+      },
+      {
+        "name": "ヴァトナヨークトル国立公園",
+        "latitude": 64.78435276387287,
+        "longitude": -17.20853917169705,
+        "url": "ヴァトナヨークトル国立公園.jpg.webp"
+      },
+      {
+        "name": "フォンテーヌブローの宮殿と庭園",
+        "latitude": 48.402119607149466,
+        "longitude": 2.699527315343618,
+        "url": "フォンテーヌブローの宮殿と庭園.jpg.webp"
+      },
+      {
+        "name": "イグアス国立公園",
+        "latitude": -25.5972,
+        "longitude": -25.5972,
+        "url": "イグアスの滝.jpg.webp"
+      },
+      {
+        "name": "ゴレ島",
+        "latitude": 14.667397331673818,
+        "longitude": -17.39838550026648,
+        "url": "ゴレ島.jpg.webp"
+      },
+      {
+        "name": "リオデジャネイロ",
+        "latitude": -22.909703444454244,
+        "longitude": -43.41576964809257,
+        "url": "リオデジャネイロ.jpg.webp"
+      },
+      {
+        "name": "九寨溝の渓谷",
+        "latitude": 33.159338028875645,
+        "longitude":103.92258163744741,
+        "url": "九寨溝の渓谷.jpg.webp"
+      },
+      {
+        "name": "ヒエラポリス・パムッカレ",
+        "latitude": 37.915458747892615,
+        "longitude": 29.117836237826083,
+        "url": "ヒエラポリス・パムッカレ.jpg.webp"
+      },
+      {
+        "name": "モスタル旧市街",
+        "latitude": 31.64207501737901,
+        "longitude":-8.001329967769983,
+        "url": "モスタル旧市街.jpg.webp"
+      },
+      {
+        "name": "プエブラ歴史地区",
+        "latitude": 19.07291847866088,
+        "longitude": -98.23267160297335,
+        "url": "プエブラ歴史地区.jpg.webp"
+      },
+      {
+        "name": "ニンガルー・コースト",
+        "latitude": -22.702068126837453,
+        "longitude": 113.7343414566199,
+        "url": "メンフィスとその墓地遺跡.jpg.webp"
+      },
+      {
+        "name": "サマルカンド",
+        "latitude": 39.655227679890004,
+        "longitude":  66.98161995995792,
+        "url": "サマルカンド.jpg.webp"
+      },
+      {
+        "name": "ヴィースの巡礼教会",
+        "latitude":47.68067973161281,
+        "longitude":10.90067125767181,
+        "url": "ヴィースの巡礼教会.jpg.webp"
+      },
+      {
+        "name": "古都奈良",
+        "latitude":34.69512254794276,
+        "longitude":  135.87545172987376,
+        "url": "古都奈良.jpg.webp"
+      },
+      {
+        "name": "ブレナム宮殿",
+        "latitude": 51.84144123013945,
+        "longitude": -1.3608432539691442,
+        "url": "ブレナム宮殿.jpg.webp"
+      }
+  ]
+  
